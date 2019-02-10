@@ -1,0 +1,8 @@
+Cluster vs Employment	
+                        Count                                       Row %                                 	
+        Employment Consultant Government Private SelfEmp_Other Consultant Government Private SelfEmp_Other	
+Cluster                                                                                                   	
+1                       18.00      80.00  419.00         47.00       3.19      14.18   74.29          8.33	
+2                       45.00      87.00  394.00         42.00       7.92      15.32   69.37          7.39	
+3                       40.00      73.00  299.00         51.00       8.64      15.77   64.58         11.02	
+4                       45.00      20.00  299.00         41.00      11.11       4.94   73.83         10.12

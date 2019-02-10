@@ -1,0 +1,4 @@
+Cluster vs TARGET_Adjusted	                        Count     Row %    	
+        TARGET_Adjusted     0   1     0   1	Cluster                                    	
+1                         564   0   100   0	2                         568   0   100   0	
+3                           0 463     0 100	4                         405   0   100   0

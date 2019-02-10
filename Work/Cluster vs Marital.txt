@@ -1,0 +1,8 @@
+Cluster vs Marital	
+                 Count                                     Row %                                   	
+        Marital Absent Divorced Married Unmarried Widowed Absent Divorced Married Unmarried Widowed	
+Cluster                                                                                            	
+1               276.00   150.00   56.00     35.00   47.00  48.94    26.60    9.93      6.21    8.33	
+2               210.00    59.00  278.00     14.00    7.00  36.97    10.39   48.94      2.46    1.23	
+3                30.00    20.00  404.00      5.00    4.00   6.48     4.32   87.26      1.08    0.86	
+4               153.00    37.00  201.00     13.00    1.00  37.78     9.14   49.63      3.21    0.25

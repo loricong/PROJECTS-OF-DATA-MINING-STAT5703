@@ -1,0 +1,5 @@
+""	"x"
+"1"	"      Marital        Income           Age    Occupation     Education        Gender "
+"2"	"139.830646886  96.952895203  63.247113961  62.573631437  54.234208892  48.223588565 "
+"3"	"        Hours    Deductions    Employment "
+"4"	" 36.533489247  22.013520900   8.969166706 "

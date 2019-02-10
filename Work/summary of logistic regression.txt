@@ -1,0 +1,38 @@
+
+Call:
+glm(formula = TARGET_Adjusted ~ ., family = binomial, data = train)
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-2.22308  -0.55635  -0.24473  -0.06099   2.84008  
+
+Coefficients:
+                        Estimate Std. Error z value Pr(>|z|)    
+(Intercept)             -4.96042    0.50787  -9.767  < 2e-16 ***
+Age                      2.12592    0.49276   4.314 1.60e-05 ***
+Income                   0.93863    0.70644   1.329 0.183954    
+Deductions               3.07772    0.61862   4.975 6.52e-07 ***
+Hours                    2.90853    0.63230   4.600 4.23e-06 ***
+EducationCollege        -0.75035    0.19193  -3.910 9.25e-05 ***
+EducationHSgrad         -1.35001    0.20855  -6.473 9.59e-11 ***
+EducationPre_HS         -2.59124    0.41867  -6.189 6.05e-10 ***
+MaritalDivorced          0.06905    0.35259   0.196 0.844748    
+MaritalMarried           2.55288    0.25135  10.157  < 2e-16 ***
+MaritalUnmarried         0.66055    0.55141   1.198 0.230943    
+MaritalWidowed          -0.37785    0.72665  -0.520 0.603076    
+OccupationOther_Unknown -0.09435    0.42383  -0.223 0.823828    
+OccupationProfessional   0.92609    0.26844   3.450 0.000561 ***
+OccupationService        0.17745    0.21550   0.823 0.410256    
+OccupationWhite_Collar   1.12309    0.21829   5.145 2.67e-07 ***
+GenderMale               0.39426    0.25540   1.544 0.122658    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1756.5  on 1599  degrees of freedom
+Residual deviance: 1142.9  on 1583  degrees of freedom
+AIC: 1176.9
+
+Number of Fisher Scoring iterations: 6
+

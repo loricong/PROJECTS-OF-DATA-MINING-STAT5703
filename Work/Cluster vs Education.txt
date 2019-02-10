@@ -1,0 +1,8 @@
+Cluster vs Education	
+                     Count                          Row %                      	
+        Education Bachelor College HSgrad Pre_HS Bachelor College HSgrad Pre_HS	
+Cluster                                                                        	
+1                   100.00  192.00 194.00  78.00    17.73   34.04  34.40  13.83	
+2                   133.00  172.00 187.00  76.00    23.42   30.28  32.92  13.38	
+3                   220.00  132.00 100.00  11.00    47.52   28.51  21.60   2.38	
+4                    21.00  125.00 179.00  80.00     5.19   30.86  44.20  19.75

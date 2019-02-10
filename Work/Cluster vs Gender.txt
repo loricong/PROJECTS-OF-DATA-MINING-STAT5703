@@ -1,0 +1,4 @@
+Cluster vs Gender	                Count         Row %       	
+        Gender Female   Male Female   Male	Cluster                                   	
+1              564.00   0.00 100.00   0.00	2                0.00 568.00   0.00 100.00	
+3               68.00 395.00  14.69  85.31	4                0.00 405.00   0.00 100.00

@@ -1,0 +1,8 @@
+Cluster vs Occupation	
+                         Count                                                       Row %                                                	
+        Occupation Blue_Collar Other_Unknown Professional Service White_Collar Blue_Collar Other_Unknown Professional Service White_Collar	
+Cluster                                                                                                                                   	
+1                        56.00         43.00        76.00  188.00       201.00        9.93          7.62        13.48   33.33        35.64	
+2                         1.00         21.00        69.00  326.00       151.00        0.18          3.70        12.15   57.39        26.58	
+3                        78.00         16.00       102.00   98.00       169.00       16.85          3.46        22.03   21.17        36.50	
+4                       378.00         27.00         0.00    0.00         0.00       93.33          6.67         0.00    0.00         0.00
