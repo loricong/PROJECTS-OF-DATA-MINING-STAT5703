@@ -1,4 +1,3 @@
-# r-code
 STAT5703 DATA MINING COURSE
 Analysis of Audit Data
 
